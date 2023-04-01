@@ -1,4 +1,4 @@
-# Deep-learning Charity Evalaution Report
+# Deep-learning Charity Evaluation Report
 
 ### Overview
 
